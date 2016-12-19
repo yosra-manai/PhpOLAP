@@ -1,0 +1,5 @@
+*.DS_Store
+exemples/*
+doc/*
+cov/*
+doc.docx
